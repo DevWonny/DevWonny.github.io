@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3b55e4d.css",
+    "main.js": "/static/js/main.c643e040.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pizza_image.PNG": "/static/media/pizza_image.eba7089022aeccd4f0b7.PNG",
+    "static/media/movie_image.PNG": "/static/media/movie_image.8340784be269ee219e24.PNG",
+    "static/media/AboutPicture.png": "/static/media/AboutPicture.c5ee985af2b194279eb7.png",
+    "static/media/covid19_image.PNG": "/static/media/covid19_image.2b266907e1212279eb6c.PNG",
+    "static/media/auton_Intro.jpg": "/static/media/auton_Intro.3d177a07c26000a06b7e.jpg",
+    "static/media/GitLogo_Project.svg": "/static/media/GitLogo_Project.329c99bec89832ce0e68c200accd53d6.svg",
+    "static/media/GitLogo.svg": "/static/media/GitLogo.914ffd5ce36a6b99ad58533da5e09109.svg",
+    "static/media/PhoneImage.svg": "/static/media/PhoneImage.a4925c9dad0500bdb7422d105e074de9.svg",
+    "index.html": "/index.html",
+    "static/media/MailImage.svg": "/static/media/MailImage.4fe2f43be01c188342ff03d0ff0e32fe.svg",
+    "main.d3b55e4d.css.map": "/static/css/main.d3b55e4d.css.map",
+    "main.c643e040.js.map": "/static/js/main.c643e040.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b55e4d.css",
+    "static/js/main.c643e040.js"
+  ]
+}
